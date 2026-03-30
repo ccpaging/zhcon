@@ -3,8 +3,8 @@
                           mouse.h  -  description
                              -------------------
     begin                : Sat Mar 2 2002
-    copyright            : (C) 2002 by huyong
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2002 by ccpaging
+    email                : ccpaging@gmail.com
 **************************************************************************/
 
 /***************************************************************************

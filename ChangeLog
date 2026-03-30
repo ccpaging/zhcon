@@ -38,7 +38,7 @@
 2003-04-21 ejoy <ejoy@users.sourceforge.net>
     * Add a command line argument (prog) to let
       zhcon run a specific program on start
-      pointed out by "Ì¬ÇÙ"
+      pointed out by "Ì¬ï¿½ï¿½"
     * Add a tip on screen to README.BSD
 
 2003-04-13 ejoy <ejoy@users.sourceforge.net>
@@ -64,7 +64,7 @@
 2002-05-26 ejoy <ejoy@users.sourceforge.net>
     * port to gcc 3.1,tested ok in VGA mode
 
-2002-05-23 huyong <ccpaging@etang.com>
+2002-05-23 ccpaging <ccpaging@gmail.com>
     * enable/disable console auto blank both linux and FreeBSD
     * To use ggi, please export
     * Fixed: mouse support cause ggi crash
@@ -76,7 +76,7 @@
       machines
     * Documentation update
 
-2002-05-05 huyong <ccpaging@etang.com>
+2002-05-05 ccpaging <ccpaging@gmail.com>
     * Add mouse support in Linux, based on gpm
       Because not in graph mode now, zhcon use termcap to clean screen, and hide/show cursor
     * Add special gpm-1.19.6 patch, help user api's mouse work well in pty mode
@@ -100,7 +100,7 @@
 2002-02-15 ejoy <ejoy@users.sourceforge.net>
     * Fixed:core dump when select nonexist font
     
-2002-02-14 huyong <ccpaging@etang.com>
+2002-02-14 ccpaging <ccpaging@gmail.com>
     * Add overspot and nativebar color config support
     * Complete FreeBSD port
 
@@ -139,7 +139,7 @@
     * Fixed: core dump bug when wrong input file are selected
 
 2001-10-20 ejoy <ejoy@users.sourceforge.net>
-           huyong <ccpaging@online.sh.cn>
+           ccpaging <ccpaging@gmail.com>
     * Add new input style - native bar
     * Add default input style define in zhcon.conf
     * Add new frame type thin/thick to get good view of native bar
@@ -172,7 +172,7 @@
 2001-9-28 ejoy <ejoy@users.sourceforge.net>
     * Now use ConfigServer to implement system menu configuration
     
-2001-9-23 huyong <ccpaging@online.sh.cn>
+2001-9-23 ccpaging <ccpaging@gmail.com>
     * Merge InputWin, PopWin, and CandilistWin into window object. Make 
       window's prog more clear and easy to use.
     * Using /dev/tty* instead of /dev/console, check current output is real
@@ -198,7 +198,7 @@
     * Other minor changes & fixes
 
 2001-8-17 ejoy <ejoy@users.sourceforge.net>
-          Hu Yong <ccpaging@online.sh.cn>
+          ccpaging <ccpaging@gmail.com>
     * Implement a new Chinese ideitify algorithm,more accurate
     * Implement console overspot input style
     * zhcon now use a new font format BPSF which is based on linux
@@ -216,12 +216,12 @@
       interface more easy
     * Fixed: compile bug on GNU GCC 3.0
 
-2001-7-24 Hu Yong <ccpaging@online.sh.cn>
+2001-7-24 ccpaging <ccpaging@gmail.com>
     * Rewrite a class FBCon to implement a better FrameBuffer
       interface in C++ way(virtual function calls).
 
 2001-7-20 ejoy <ejoy@users.sourceforge.net>
-    * Fixed: table line recognize bug in 16bpp,32bpp,thanks to Hu Yong for his patch.
+    * Fixed: table line recognize bug in 16bpp,32bpp,thanks to ccpaging for his patch.
     * Source clean up.
     * Add a man page,README.gb,README.big5,and two poem for test.
     * Some minor improvement.
@@ -245,7 +245,7 @@
 2001-7-15 ejoy <ejoy@users.sourceforge.net>
     * Fixed: table char recognize bug
     * Fixed: bash command line Chinese input bug
-    * Fixed: table line display bug in 8pp mode,thank to Hu Yong.
+    * Fixed: table line display bug in 8pp mode,thank to ccpaging.
     * Implement console blink attribute
     * Some other improvement.
 

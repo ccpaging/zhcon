@@ -3,9 +3,9 @@
                           fblinear32.h  -  description
                              -------------------
     begin                : Fri July 20 2001
-    copyright            : (C) 2001 by ejoy, huyong
+    copyright            : (C) 2001 by ejoy, ccpaging
     email                : ejoy@users.sourceforge.net
-                           ccpaging@online.sh.cn
+                           ccpaging@gmail.com
  ***************************************************************************/
 
 /***************************************************************************
@@ -23,7 +23,7 @@
 #include "fbdev.h"
 
 /**
- *@author huyong
+ *@author ccpaging
  */
 class FBLinear32 : public FBDev {
     public:

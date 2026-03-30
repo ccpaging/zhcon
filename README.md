@@ -1,9 +1,10 @@
 INTRODUCTION
 ============
 Zhcon is a fast Linux Console Chinese System which supports
-framebuffer device.It can display Chinese, Japanese or Korean
-double byte characters.Supported language encodings include:
+linux framebuffer device. It can display Chinese, Japanese or Korean
+double byte characters. Supported language encodings include:
 GB2312, GBK, BIG5, JIS and KSC.
+
 It can also use input methods(table based) from M$ pwin98 and
 UCDOS for M$-DOG.
 
@@ -12,11 +13,13 @@ LICENSE
 All the source codes are published under GPL!(see COPYING)
 The input methods used in zhcon are originally written by
 ejoy<ejoy@users.sf.net> and are published under GPL too!
+
 However currently the words of the ime are converted from M$ windows
 & UCDOS. Future version of zhcon will use its own input table to
 purify its *free* spirit.
+
 The bpsf font format used in zhcon is proposed by one of its core
-developers Hu Yong<ccpaging@etang.com> based on psf format.See doc/
+developers ccpaging<ccpaging@gmail.com> based on psf format. See doc/
 bpsf.txt for more detail.
 
 DOWNLOAD & INSTALL
@@ -31,16 +34,20 @@ FAQ & BUG REPORT
 ================
 There's a online FAQ available at http://zhcon.gnuchina.org
 You should read the FAQ when you encounter problem.
+
 If you are sure you find a bug in zhcon please report it to 
 zhcon-devel@lists.sourceforge.net
+
 Please include detail description of the problem you found as well
 as you system info (uname -a) so we can reproduce the bug.
+
 Send us patches if you can!
 
 BSD NOTICE!
 ===========
 This version includes a beta FreeBSD port and has been tested on 
 FreeBSD 4.8. You should read README.BSD before you start.
+
 Mouse cut & paste should work fine on FreeBSD platform, but Linux gpm
 support is still in progress, see below.
 

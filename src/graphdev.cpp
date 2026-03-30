@@ -3,8 +3,8 @@
                           graphdev.cpp  -  description
                              -------------------
     begin                : Sun Auguest 26 2001
-    copyright            : (C) 2001 by huyong, rick
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2001 by ccpaging, rick
+    email                : ccpaging@gmail.com
                            rick@chinaren.com
  ***************************************************************************/
 

@@ -3,9 +3,9 @@
                           vgadev.h  -  description
                              -------------------
     begin                : Wed Sept 05 2001
-    copyright            : (C) 2001 by rick, huyong
+    copyright            : (C) 2001 by rick, ccpaging
     email                : rick@chinaren.com
-                           ccpaging@online.sh.cn
+                           ccpaging@gmail.com
 
  ***************************************************************************/
 

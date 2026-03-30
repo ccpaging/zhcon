@@ -3,8 +3,8 @@
                           window.h  -  description
                              -------------------
     begin                : Fri July 20 2001
-    copyright            : (C) 2001 by huyong,ejoy
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2001 by ccpaging,ejoy
+    email                : ccpaging@gmail.com
                            ejoy@users.sourceforge.net
  ***************************************************************************/
 

@@ -3,8 +3,8 @@
                           fbvgaplanes.cpp  -  description
                              -------------------
     begin                : Fri July 28 2001
-    copyright            : (C) 2001 huyong
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2001 ccpaging
+    email                : ccpaging@gmail.com
  ***************************************************************************/
 
 /***************************************************************************

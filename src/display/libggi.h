@@ -3,8 +3,8 @@
                           libggi.h  -  description
                              -------------------
     begin                : Fri July 20 2001
-    copyright            : (C) 2001 by huyong
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2001 by ccpaging
+    email                : ccpaging@gmail.com
 
  ***************************************************************************/
 

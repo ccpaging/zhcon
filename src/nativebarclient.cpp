@@ -3,8 +3,8 @@
                           nativebarclient.cpp  -  description
                              -------------------
     begin                : Tue Oct 16 2001
-    copyright            : (C) 2001 by huyong
-    email                : ccpaging@online.sh.cn
+    copyright            : (C) 2001 by ccpaging
+    email                : ccpaging@gmail.com
  ***************************************************************************/
 
 /***************************************************************************

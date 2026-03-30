@@ -1,6 +1,6 @@
          The PSF file-format for big charset
 
-     (C) 2001 Hu Yong <ccpaging@online.sh.cn>
+     (C) 2001 ccpaging <ccpaging@gmail.com>
       
 This file documents the PSF file-format for big charset(called as BPSF as 
 below), as understood by version 0.15 and above of zhcon, and zhcon is orient
